@@ -1,4 +1,7 @@
-__pycache__/**
-data/
+__pycache__/
+data_*/
 env/
 .idea/
+results/
+
+test.ipynbw
