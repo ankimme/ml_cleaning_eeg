@@ -114,7 +114,7 @@ The model successfully detects and corrects eeg artifacts, mainly EOG and EMG. T
 
 Measures for recording sub-044.
 
-|Iter | R2   | MAE      |      MSE | RMSE     |
+|Elec.| R2   | MAE      |      MSE | RMSE     |
 |-----|------|----------|----------|----------|
 |Mean | 0.90 | 8.02e-06 | 1.06e-10 | 1.02e-05 |
 |   0 | 0.90 | 8.11e-06 | 1.06e-10 | 1.03e-05 |
